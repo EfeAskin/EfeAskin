@@ -41,7 +41,7 @@
 
 ### 📫 Let's Connect
 -📨 Email: [kamilefeaskin@gmail.com](mailto:kamilefeaskin@gmail.com)
--[💼 LinkedIn](https://www.linkedin.com/in/kamil-efe-askin)
+-[💼 LinkedIn](https://www.linkedin.com/in/kamil-efe-a%C5%9Fk%C4%B1n-71846624a/)
 
 ---
 
