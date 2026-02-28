@@ -32,10 +32,10 @@
 ---
 
 ### 🏆 Awards & Projects
--🎓 Dean’s List recognition – GPA: 3.32
--💻 Participated in the university hackathon – gained hands-on experience in teamwork and rapid prototyping
--💡 Personal “Just for Fun” project – small project to practice coding and problem-solving
--🔧 Experimenting with C, Python, SQL, and HTML projects to improve skills
+-🎓 Dean’s List recognition – GPA: 3.32 
+-💻 Participated in the university hackathon – gained hands-on experience in teamwork and rapid prototyping 
+-💡 Personal “Just for Fun” project – small project to practice coding and problem-solving 
+-🔧 Experimenting with C, Python, SQL, and HTML projects to improve skills 
 
 ---
 
