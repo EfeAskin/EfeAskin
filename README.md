@@ -7,7 +7,7 @@
 ---
 
 ### 💻 About Me
-- 🎓 3rd year Computer Engineering student at Eastern Mediterranean with a GPA of 3.32
+- 🎓 3rd year Computer Engineering student at Eastern Mediterranean University with a GPA of 3.32
 - 💻 Strong interest in Algorithms, Data Structures, and Systems Programming
 - 🚀 Currently improving myself in backend development and system-level thinking
 - 📈 Always working on becoming a better engineer every day
